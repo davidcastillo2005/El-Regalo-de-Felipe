@@ -1,0 +1,28 @@
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\bin\Debug\net8.0\Exam.exe
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\bin\Debug\net8.0\Exam.deps.json
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\bin\Debug\net8.0\Exam.dll
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\bin\Debug\net8.0\Exam.pdb
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.dll
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\refint\Exam.dll
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.pdb
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+C:\Miguel\Exámenes de Pro\2024-2025\Exam\obj\Debug\net8.0\ref\Exam.dll
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\bin\Debug\net8.0\Exam.exe
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\bin\Debug\net8.0\Exam.deps.json
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\bin\Debug\net8.0\Exam.runtimeconfig.json
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\bin\Debug\net8.0\Exam.dll
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\bin\Debug\net8.0\Exam.pdb
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.dll
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\refint\Exam.dll
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.pdb
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+C:\Users\Audiovisual1\Desktop\Exam\El Regalo de Felipe\obj\Debug\net8.0\ref\Exam.dll
